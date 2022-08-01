@@ -1,9 +1,9 @@
-# NEON Bricks 🧱
+# CandyCo Bricks 🧱
 
-Alle 🧱, die uns bei NEON SOFTWARE STUDIOS eingefallen sind, die unser Leben erleichtern.
+Every 🧱, that I can possibly come up with and that make my life easier.
 
-## Verwendung
+## Usage
 
-Implementiere neue 🧱 in einem eigenen Verzeichnis, das in dem Ordner ```bricks``` lebt. Verwende dazu den Befehl ```mason new```. Vergiss im Anschluss nicht, die neuen 🧱 im ```mason.yaml``` des [NEON Template Projekts][template_project_link] zu verlinken (und anschließend auch im Repo des Template Projekts zu pushen)!
+Implement new 🧱 in an own directory, that lives in the folder ```bricks```. To do so, use ```mason new```. After creating the new 🧱, you might want to add them to the ```mason.yaml``` of the [Flutter Template Projekts][template_project_link]!
 
-[template_project_link]: https://github.com/julien-neon/NEON_template_project
+[template_project_link]: https://github.com/julienandco/template_project
